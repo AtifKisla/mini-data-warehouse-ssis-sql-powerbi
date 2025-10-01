@@ -21,9 +21,11 @@ Bu proje, ETL sürecini ve veri ambarı kavramlarını öğrenmek için gelişti
 - `screenshots/` → Görseller
 
 ## 🔍 Önizleme
-![ETL](screenshots/control_flow.png)
-![Star Schema](screenshots/star_schema.png)
-![Dashboard](screenshots/dashboard.png)
+![ETL](screenshots/control_flow.jpeg)
+![Star Schema](screenshots/star_schema.jpeg)
+![SQL Query](screenshots/query.jpeg)
+![Dashboard](screenshots/dashboard.jpeg)
+
 
 ## 🎯 Öğrendiklerim
 - ETL sürecinde veri entegrasyonu
